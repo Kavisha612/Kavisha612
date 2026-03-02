@@ -15,8 +15,6 @@ I’m someone who asks the right questions, takes feedback well, focuses on the 
 ---
 ## My Values
 
-## My Values
-
 | 🌱 **Curiosity** | 🛠 **Ownership** | 🤝 **Respect** |
 |---|---|---|
 | I ask **why**, not just how.<br>It helps me understand systems deeply.<br>That leads to better solutions. | I do my best work when I own outcomes.<br>Responsibility drives quality.<br>I care about finishing well. | Everyone has something to offer.<br>Experience isn’t the only signal.<br>Mutual respect builds teams. |
