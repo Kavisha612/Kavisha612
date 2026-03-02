@@ -23,6 +23,13 @@ I’m someone who asks the right questions, takes feedback well, focuses on the 
 | 🎯 **Simplicity** | 🌍 **Real Impact** | 🔎 **Transparency** |
 | Keep things simple and focused.<br>Reduce scope when needed.<br>Quality over quantity. | I want my work to matter.<br>Useful to people, not just impressive.<br>Impact over optics. | Clear requirements and communication.<br>Fewer assumptions, fewer surprises.<br>Smoother execution. |
 
+## My Values
+
+| 🌱 **CURIOSITY** | 🛠 **OWNERSHIP** | 🤝 **RESPECT** |
+|---|---|---|
+| **I ask _why_, not just _how_.**<br>It helps me understand systems deeply.<br>That leads to better solutions. | **I care most when I own the outcome.**<br>Responsibility drives quality.<br>I follow through end-to-end. | **Everyone has something to offer.**<br>Experience isn’t the only signal.<br>Mutual respect makes teams work. |
+| 🎯 **SIMPLICITY** | 🌍 **REAL IMPACT** | 🔎 **TRANSPARENCY** |
+| **Keep it simple and focused.**<br>Reduce scope when needed.<br>Quality over quantity. | **I want my work to matter.**<br>Useful to real people.<br>Impact over optics. | **Clear requirements, clear communication.**<br>Fewer assumptions, fewer surprises.<br>Smoother execution. |
 ---
 
 ## Projects (high-level)
