@@ -13,26 +13,17 @@ I like working on problems that require me to derive requirements through R&D an
 I’m someone who asks the right questions, takes feedback well, focuses on the root of the problem rather than the most complex solution [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle)
 
 ---
+## My Values
 
 ## My Values
 
-- **Curiosity** — I always ask *“why”*, not just *“how.”* It helps me understand systems deeply and come up with creative approaches.
-- **Ownership** — I care most when I’m truly responsible for the outcome. If I own something end-to-end, I put real quality into it.
-- **Respect** — Everyone has something to offer, regardless of experience or background. Good teams run on mutual respect.
-- **Simplicity** — I try to keep things simple: reduce scope, focus on the MVP, and prioritise quality over quantity.
-- **Real Impact** — I want my work to matter — to genuinely help someone or improve something in the real world.
-- **Transparency** — Clear requirements, clear communication, and minimal assumptions. It makes collaboration and execution smoother.
-
-- ## My Values
-
 | 🌱 **Curiosity** | 🛠 **Ownership** | 🤝 **Respect** |
-|------------------|------------------|----------------|
-| I ask *why*, not just *how*. Understanding systems deeply helps me create better solutions. | When I’m fully responsible, I give my best work. Ownership creates connection and quality. | Everyone has something to offer. Strong teams are built on mutual respect. |
+|---|---|---|
+| I ask **why**, not just how.<br>It helps me understand systems deeply.<br>That leads to better solutions. | I do my best work when I own outcomes.<br>Responsibility drives quality.<br>I care about finishing well. | Everyone has something to offer.<br>Experience isn’t the only signal.<br>Mutual respect builds teams. |
 
 | 🎯 **Simplicity** | 🌍 **Real Impact** | 🔎 **Transparency** |
-|-------------------|-------------------|--------------------|
-| Keep it simple. Focus on MVP. Quality over quantity. | I want my work to genuinely help someone or improve something meaningful. | Clear requirements. Clear communication. Fewer assumptions. Better outcomes. |
-
+|---|---|---|
+| Keep things simple and focused.<br>Reduce scope when needed.<br>Quality over quantity. | I want my work to matter.<br>Useful to people, not just impressive.<br>Impact over optics. | Clear requirements and communication.<br>Fewer assumptions, fewer surprises.<br>Smoother execution. |
 Some repos are polished. Some are learning-in-progress. That’s intentional.
 
 ---
