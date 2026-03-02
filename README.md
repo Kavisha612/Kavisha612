@@ -15,7 +15,6 @@ I’m someone who asks the right questions, takes feedback well, focuses on the 
 ---
 
 ## My Values
-## My Values
 
 - **Curiosity** — I always ask *“why”*, not just *“how.”* It helps me understand systems deeply and come up with creative approaches.
 - **Ownership** — I care most when I’m truly responsible for the outcome. If I own something end-to-end, I put real quality into it.
@@ -23,6 +22,16 @@ I’m someone who asks the right questions, takes feedback well, focuses on the 
 - **Simplicity** — I try to keep things simple: reduce scope, focus on the MVP, and prioritise quality over quantity.
 - **Real Impact** — I want my work to matter — to genuinely help someone or improve something in the real world.
 - **Transparency** — Clear requirements, clear communication, and minimal assumptions. It makes collaboration and execution smoother.
+
+- ## My Values
+
+| 🌱 **Curiosity** | 🛠 **Ownership** | 🤝 **Respect** |
+|------------------|------------------|----------------|
+| I ask *why*, not just *how*. Understanding systems deeply helps me create better solutions. | When I’m fully responsible, I give my best work. Ownership creates connection and quality. | Everyone has something to offer. Strong teams are built on mutual respect. |
+
+| 🎯 **Simplicity** | 🌍 **Real Impact** | 🔎 **Transparency** |
+|-------------------|-------------------|--------------------|
+| Keep it simple. Focus on MVP. Quality over quantity. | I want my work to genuinely help someone or improve something meaningful. | Clear requirements. Clear communication. Fewer assumptions. Better outcomes. |
 
 Some repos are polished. Some are learning-in-progress. That’s intentional.
 
