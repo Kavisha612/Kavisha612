@@ -2,7 +2,7 @@
 <a href="mailto:kavisha.applications@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="26"/>
 </a>
-<a href="https://linkedin.com/in/KavishaGupta">
+<a href="https://linkedin.com/in/KavishaGupta612">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="26"/>
 </a>
 
